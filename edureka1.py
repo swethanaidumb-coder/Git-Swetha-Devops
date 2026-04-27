@@ -1,0 +1,1 @@
+df.loc[start:stop, "column_1 : column_n"]
